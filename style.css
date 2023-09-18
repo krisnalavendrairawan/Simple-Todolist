@@ -1,0 +1,59 @@
+*{
+    margin : 0 ;
+    padding: 0;
+}
+html{
+    margin :20px auto;
+}
+.container{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+.row{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.row input{
+    margin : 0 10px;
+}
+
+.btn-add{
+    width: 30;
+    height: 40px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.Tarea{
+    width: 600px;
+    margin: auto 10px;
+}
+
+#form-judul{
+    width: 600px;
+    margin: auto 10px;
+}
+
+td{
+    padding: 10px;
+}
+
+.card{
+    margin: 20px;
+}
+
+/* buat agar container ke tengah */
+.container{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
